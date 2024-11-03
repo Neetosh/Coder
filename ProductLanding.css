@@ -1,0 +1,12 @@
+.table{
+    width:20rem;
+    height:20rem;
+}
+.bordered{
+    border: 5px solid black;
+    border-radius: 10px 20px 30px;
+}
+
+.yellow-bg{
+    background-color: yellow;
+}
